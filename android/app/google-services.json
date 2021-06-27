@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "507450346306",
+    "firebase_url": "https://angular-crud-firebase-1ffc9.firebaseio.com",
+    "project_id": "angular-crud-firebase-1ffc9",
+    "storage_bucket": "angular-crud-firebase-1ffc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507450346306:android:f24b4290331fb4c9afd6db",
+        "android_client_info": {
+          "package_name": "com.example.watu_ppp2_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507450346306-9a2e0cf7ogssanimh390nj4i88ugpb98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPS-AZP5hHaE0Orrs29PmObfeyLLJZnb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507450346306-9a2e0cf7ogssanimh390nj4i88ugpb98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
